@@ -7,7 +7,7 @@ function App() {
 
   return (
     <Box sx={{ border: '1px solid #ccc', mx: 'auto', p: 3, mt: 6, borderRadius: 5 }} elevation={0} maxWidth={400}>
-      <Typography>Register</Typography>
+      <Typography>Registerit</Typography>
       <TextField label="Name" fullWidth sx={{ mt: 2 }}></TextField>
       <TextField label="Email" fullWidth sx={{ mt: 2 }}></TextField>
       <TextField label="Password" fullWidth sx={{ mt: 2 }}></TextField>
